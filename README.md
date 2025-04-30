@@ -46,9 +46,28 @@
 
 ---
 
-## 🖼 Screenshots
+## 📸 App Screenshots
 
-> Coming soon – Include images of the dashboard, alerts, and health history pages.
+### 🏠 Home Dashboard
+![Home Dashboard](Assets/Screenshots/homepage.png)
+
+### ❤️ Heart Monitor
+![Heart Monitor](Assets/Screenshots/heaart_monitor.png)
+
+### 🆘 Emergency Assistance
+![Emergency Help](Assets/Screenshots/emergency_help.png)
+
+### 📝 User Form (Onboarding)
+![User Form](Assets/Screenshots/user_form_1.png)
+![User Form](Assets/Screenshots/user_form_2.png)
+
+### 🏃‍♂️ Step Count & Calories Burn
+<img src="Assets/Screenshots/step_count.png" width="45%" />
+<img src="Assets/Screenshots/calories_burn.png" width="45%" />
+
+### 🔔 Notifications Page
+![Notifications](Assets/Screenshots/notifications.png)
+
 
 ---
 
